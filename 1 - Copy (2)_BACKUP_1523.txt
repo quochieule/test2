@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+testsdasdasd
+.
+
+test conbfile test2
+sdfsdf
+
+
+sd
+fsd
+
+21
+we12
+=======
+>>>>>>> parent of 38f83e2... test2 commit
